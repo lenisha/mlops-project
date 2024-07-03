@@ -4,7 +4,7 @@ variables:
 - name: aml_workspace
   value: nlp-workspace
 - name: service_connection
-  value: 'Azure-ARM-Prod'
+  value: 'nlp-azure'
 
 trigger:
 - none
